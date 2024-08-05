@@ -1,4 +1,4 @@
-# python_in_excel
+# Python in Excel
 Free practice materials with interesting tasks to help Excel lovers become good at using the native Python feature. Enjoy!
 
 ![image](https://github.com/user-attachments/assets/74656edd-9de5-4469-b34f-fcdc8c7ba86d)
